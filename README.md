@@ -9,9 +9,8 @@ This project demonstrates real-world automation architecture, clean separation o
 
 ## 🚀 Key Features
 
-- Centralized management of UI and API test cases  
 - Selenium-based automated test execution engine  
-- Real-time execution status and detailed test results   
+- Real-time execution status and test results  
 - Parallel test execution support  
 - Clean, modular, and extensible architecture  
 
