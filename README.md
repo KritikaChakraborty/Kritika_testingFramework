@@ -21,13 +21,15 @@ This project demonstrates real-world automation architecture, clean separation o
 ### Backend
 - Java 17  
 - Spring Boot 3.2  
+- Spring Web (MVC & REST)  
 - Spring Data JPA  
 - Hibernate  
+- Lombok  
 
 ### Frontend
 - Thymeleaf  
-- Bootstrap 5  
-- JavaScript  
+- HTML5  
+- CSS3  
 
 ### Automation
 - Selenium WebDriver 4  
@@ -35,6 +37,7 @@ This project demonstrates real-world automation architecture, clean separation o
 ### Database
 - H2 (In-Memory – Development)  
 - MySQL (Production Ready)  
+  
 
 ### Build Tool
 - Maven  
